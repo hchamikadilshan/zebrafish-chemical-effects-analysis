@@ -26,7 +26,7 @@ This project analyzes the effects of various chemicals (Beryllium, Chromium, Iro
 - numpy
 - matplotlib
 - scikit-learn
-
+- statsmodels
 ## Future Work
 Further analysis will be conducted using other machine learning models to enhance the understanding of the zebrafish behavioral responses to these chemicals.
 
