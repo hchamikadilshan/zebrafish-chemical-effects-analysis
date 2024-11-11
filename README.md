@@ -11,7 +11,7 @@ This project analyzes the effects of various chemicals (Beryllium, Chromium, Iro
 
 ## How to Run
 1. Clone the repository:  
-   `git clone https://github.com/username/zebrafish-chemical-effects-analysis.git`
+   `git clone https://github.com/hchamikadilshan/zebrafish-chemical-effects-analysis.git`
 
 2. Navigate to the project directory:
    `cd zebrafish-chemical-effects`
