@@ -1,10 +1,10 @@
 # zebrafish-chemical-effects-analysis
 
 ## Overview
-This project analyzes the effects of various chemicals (Beryllium, Chromium, Iron, Nickel, etc.) on zebrafish behavior during light and dark phases. Using a multiple regression approach, the aim is to identify which chemicals most significantly influence zebrafish movement.
+This project analyzes the effects of various chemicals (Be, Cr, Fe, Ni, Cu, As, Cd, Ba, Ti, Pb and U) on zebrafish behavior during light and dark phases. Using a multiple regression approach, the aim is to identify which chemicals most significantly influence zebrafish movement.
 
 ## Files
-- `data/`: Contains the raw dataset.
+- `data/`: Contains the datasets.
 - `notebooks/`: Jupyter notebooks where the regression analysis is performed.
 - `src/`: Python scripts for data processing and model building.
 - `results/`: Results from the regression models.
