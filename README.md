@@ -8,19 +8,6 @@ This project analyzes the effects of various chemicals (Be, Cr, Fe, Ni, Cu, As, 
 - `notebooks/`: Jupyter notebooks where the regression analysis is performed.
 - `src/`: Python scripts for data processing and model building.
 - `results/`: Results from the regression models.
-
-## How to Run
-1. Clone the repository:  
-   `git clone https://github.com/hchamikadilshan/zebrafish-chemical-effects-analysis.git`
-
-2. Navigate to the project directory:
-   `cd zebrafish-chemical-effects`
-
-3. Install required packages:
-   `pip install -r requirements.txt`
-
-4. To run the analysis, open and run the Jupyter notebook `notebooks/regression_analysis.ipynb`.
-
 ## Dependencies
 - pandas
 - numpy
